@@ -1,0 +1,27 @@
+{
+  "paraiba": [
+    {
+      "NO_REGIAO": "Nordeste",
+      "CO_REGIAO": "2",
+      "NO_UF": "Paraíba",
+      "SG_UF": "PB",
+      "CO_UF": "25",
+      "NO_MUNICIPIO": "Araruna",
+      "CO_MUNICIPIO": "2501005",
+      "NO_MESORREGIAO": "Agreste Paraibano",
+      "NO_MICRORREGIAO": "Curimataú Oriental",
+      "NO_ENTIDADE": "EMEF JOAO ALVES",
+      "QT_MAT_BAS": "779",
+      "QT_MAT_INF": "0",
+      "QT_MAT_FUND": "675",
+      "QT_MAT_MED": "0",
+      "QT_MAT_EJA": "104",
+      "QT_MAT_EJA_FUND": "104",
+      "QT_MAT_ESP": "43",
+      "QT_MAT_BAS_EAD": "0",
+      "QT_MAT_FUND_INT": "267",
+      "QT_MAT_MED_INT": "0",
+      "id": "4cc6"
+    }
+  ]
+}

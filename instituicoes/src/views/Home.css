@@ -1,0 +1,22 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  
+  .carousel img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .carousel {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
